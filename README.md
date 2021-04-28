@@ -13,6 +13,10 @@
 
 Vi vil lave en applikation, der kan forudsige en given kurs på en aktie, et råstof eller valuta. Projektet vil bestå af forskellige moduler, der kommunikerer indbyrdes for at give det bedst mulige resultat. Projektet skal give brugeren en samlet anbefaling omkring køb og salg af værdipapirer. Vi mener at Data Science i høj grad giver mening at bruge i denne sammenhæng, da vi taler om at kunne forudsige et resultat ud fra en historiske data. Vores motivation for at bygge projektet er, at kunne tilbyde små investorer en mulighed for at handle bedre på diverse markeder. 
 
+## Hypotese
+
+Kan vi forusige en aktie i et givet tids interval med rimeligt sikkerthed. 
+
 <br/>
 
 ## Projektets opbygning
@@ -23,6 +27,7 @@ Dette modul vil have ansvaret for at processere historisk data og ud fra dette g
 Mulige teknologier  
 * Lineær Regression
 * LSTM, Long Short Term Memory - RNN, Recurrent Neural Network
+* Python
 
 Mulige datakilder
 * Alpha Vantage
@@ -37,6 +42,7 @@ Baseret på brugerens interesse i aktiemarkedet, vil der kunne indtastes søgekr
 Mulige teknologier  
 * Neo4j
 * HBase
+* Python
 
 Mulige datakilder
 * Twitter
@@ -53,6 +59,7 @@ Dette modul vil i sammenspil med scraper modulet analysere artikler og give en p
 \
 Mulige teknologier  
 * NLP, Natural Language Processing - Kap. 21, Joel Grus
+* Python
 
 Mulige datakilder
 * Egen database over scraper resultater
@@ -65,5 +72,6 @@ Vil være et nice to have modul og have den laveste prioritet gennem projektet. 
 \
 Mulige teknologier  
 * Alpaca API
+* Python
 
 <br/>
