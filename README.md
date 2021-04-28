@@ -11,7 +11,7 @@
 
 ## Projektet
 
-Vi vil lave en applikation, der kan forudsige en given kurs på en aktie, et råstof eller valuta. Projektet vil bestå af forskellige moduler, der kommunikerer indbyrdes for at give det bedst mulige resultat. Projektet skal give brugeren en samlet anbefaling omkring køb og salg af værdipapirer. Vi mener at Data Science i høj grad giver mening at bruge i denne sammenhæng, da vi taler om at kunne forudsige et resultat ud fra en historiske data. Vores motivation for at bygge projektet er, at kunne tilbyde små investorer en mulighed for at handle bedre på diverse markedet. 
+Vi vil lave en applikation, der kan forudsige en given kurs på en aktie, et råstof eller valuta. Projektet vil bestå af forskellige moduler, der kommunikerer indbyrdes for at give det bedst mulige resultat. Projektet skal give brugeren en samlet anbefaling omkring køb og salg af værdipapirer. Vi mener at Data Science i høj grad giver mening at bruge i denne sammenhæng, da vi taler om at kunne forudsige et resultat ud fra en historiske data. Vores motivation for at bygge projektet er, at kunne tilbyde små investorer en mulighed for at handle bedre på diverse markeder. 
 
 <br/>
 
@@ -52,7 +52,7 @@ Dette modul vil i sammenspil med scraper modulet analysere artikler og give en p
 \
 \
 Mulige teknologier  
-* NLP, Natural Language Processing
+* NLP, Natural Language Processing - Kap. 21, Joel Grus
 
 Mulige datakilder
 * Egen database over scraper resultater
