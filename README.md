@@ -4,7 +4,7 @@
 <br/>
 
 * Claus Kramath - cph-ck83@cphbusiness.dk
-* Jörg Oertel - ?
+* Jörg Oertel - cph-jo130@cphbusiness.dk
 * Mads Wulff Nielsen - cph-mn492@cphbusiness.dk
 
 <br/>
