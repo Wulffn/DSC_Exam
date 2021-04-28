@@ -4,23 +4,23 @@
 
 Based on the ideas and assumptions defined at the previous stage of your business case analysis, create the first prototype of your solution implementation.
 
-1.    Searching Internet and other media, find relevant data sources that can be used in your experiment.
+1. Searching Internet and other media, find relevant data sources that can be used in your experiment.
 
-2.    Integrate the sources in shared repository by either ETL or ELT process (you can use public software, own code, or integration of tools)
+2. Integrate the sources in shared repository by either ETL or ELT process (you can use public software, own code, or integration of tools)
 
-3.    Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
+3. Design a data story or data processing scenario (can be done manually on paper, but the use of software platforms is recommended).
 
-a.    decide on data processing parameters and methods
+   a. decide on data processing parameters and methods
 
-b.   choose data visualisation techniques
+   b. choose data visualisation techniques
 
-c.  create visual representations
+   c. create visual representations
 
-d.   create dashboards
+   d. create dashboards
 
-e.    create a first prototype of data story
+   e. create a first prototype of data story
 
-2.    Export your solution in a file and upload it to your git repository.
+2. Export your solution in a file and upload it to your git repository.
 
 ***
 
