@@ -16,9 +16,6 @@ Vi vil lave en applikation, der kan forudsige en given kurs på en aktie, et rå
 <br/>
 
 ## Projektets opbygning
-
-<br/>
-
 ### **Stock predicter**
 Dette modul vil have ansvaret for at processere historisk data og ud fra dette give et bud på udviklingen i kursen.
 \
