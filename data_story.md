@@ -18,4 +18,5 @@ Et stadig stigende antal medier danner beslutningsgrundlag for aktiehandlere. Tr
 
 ## 4. Forudsigelse af aktiekurs på baggrund af empiri og trends
 
-Vi kan med relativ sikkerhed forudsige udviklingen i en given aktie ved at følge dens historiske udvikling og aktuelle trends online.
+Vi kan med relativ sikkerhed forudsige udviklingen i en given aktie ved at følge dens historiske udvikling og aktuelle trends online.  
+// Og her kommer et billede fra orakelMads' fede aktiesoftware.
