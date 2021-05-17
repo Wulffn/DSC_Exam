@@ -39,3 +39,4 @@ hjemmesidder:
 * Twitter: @Investors Tesla (https://twitter.com/search?q=%40investors.com%20tesla&src=typed_query)
 * https://newsapi.org/pricing 
   * apikey: dcfec1f32fa846f98fd8f0849bbcd21d
+* https://github.com/huseinzol05/Stock-Prediction-Models#models
