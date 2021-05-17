@@ -38,4 +38,4 @@ hjemmesidder:
 * https://finance.yahoo.com/
 * Twitter: @Investors Tesla (https://twitter.com/search?q=%40investors.com%20tesla&src=typed_query)
 * https://newsapi.org/pricing 
-  * apikey: dcfec1f32fa846f98fd8f0849bbcd21d
+  * [TESLA, 5min interval, JSON format](https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=TELA&interval=5min&apikey=dcfec1f32fa846f98fd8f0849bbcd21d)
