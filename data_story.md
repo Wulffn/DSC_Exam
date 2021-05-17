@@ -20,3 +20,8 @@ Et stadig stigende antal medier danner beslutningsgrundlag for aktiehandlere. Tr
 
 Vi kan med relativ sikkerhed forudsige udviklingen i en given aktie ved at følge dens historiske udvikling og aktuelle trends online.  
 // Og her kommer et billede fra orakelMads' fede aktiesoftware.
+
+https://www.fool.com/investing/2020/12/02/why-tesla-stock-soared-463-in-november/
+
+Kan vi bruge high og low til noget?
+Vi kan måske lave en lineær regression for at påvise påstand nr 1, at aktier over tid stiger...
