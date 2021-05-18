@@ -79,4 +79,4 @@ Mulige teknologier
 ### **Links**
 
 * [docker metabase](https://hub.docker.com/r/metabase/metabase)
-* [Exampler på GitHub](https://github.com/huseinzol05/Stock-Prediction-Models#models)
+* [exampler på github](https://github.com/huseinzol05/Stock-Prediction-Models#models)
