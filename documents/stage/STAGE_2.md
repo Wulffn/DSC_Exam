@@ -12,16 +12,20 @@
 * [Alpha Vantage](https://www.alphavantage.co/)
     * [TESLA, 5min interval, JSON format](https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=TELA&interval=5min&apikey=dcfec1f32fa846f98fd8f0849bbcd21d)
 
-***
+**Datalinks for Sentiment Analysis:**
 
-2. Integrate the sources in shared repository by either ETL or ELT process (you can use public software, own code, or integration of tools)
+* [Kaggle](https://www.kaggle.com/)
 
-Jeg vil forslå at vi benytter os ELT (Extract, Load, and Transform)
-Det vil sige at vi henter data, gemme data evt. i textfile og først derefter transformere vores data ( normalisering, cleaning....)
+### 2. Integration af data med hjælp af ELT (Extract, Load, and Transform)
 
-1. Extract (hent data fra api)
-2. Load (load data fra db til jupyter notebook)
-3. Transform data
+<img src="./images/elt.png" margin-top="200px" heights="30%" width="30%">
+
+1. Vi **E**xtracter data igennem et api og gemme dataen i et csv file.
+2. Vi **L**oader vores extracted data med hjælp af python.
+3. Vi **T**ransformer vores loaded data, med hjælp af python.
+
+
+
 
 * Billede af vores database diagram
 * Kode api i python for fetching artikel/stock data og persist data i DB
