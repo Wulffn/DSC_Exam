@@ -3,7 +3,7 @@
 ## 1. Aktieudvikling
 
 Den generelle tendens i aktiers kursudvikling er stigende. Undertiden sker der dog hændelser, som påvirker aktiekurser ekstraordinært. Eksempelvis Black Tuesday i 1929 og Black Monday i 1987.
-![/images/black_days.jpg](/images/black_days.jpg)
+![black_days.jpg](../../images/black_days.jpg)
 
 ## 2. Aktier i grøn økonomi
 
