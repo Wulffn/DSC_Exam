@@ -50,6 +50,8 @@ Vi tolker LSTM grafen som værende et resultat af, at maskinen har lært sig ten
 
 Denne teknologi forsøger at ramme ideallinjen gennem punkter, så man kan opstille en ligning, der bedst beskriver punkternes formel.
 
+![fit.png](../../images/fit.png)
+
 Med denne teknologi ser vi en bedre nøjagtighed i forudsigelse af aktiekursen.
 
 ![lr_prediction.png](../../images/lr_prediction.PNG)
