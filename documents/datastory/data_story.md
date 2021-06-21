@@ -6,11 +6,11 @@ Den generelle tendens i aktiers kursudvikling er stigende. Undertiden sker der d
 ![black_days.jpg](../../images/black_days.jpg)
 
 Også langt mindre hændelser kan have stor betydning. Eksempelvis faldt Coca-Cola aktien markant efter fodboldstjernen Ronaldo fjernede 2 af EM-2020 hovedsponsorens flasker fra bordet under en pressekonference med det portugisiske landshold d. 14/6 2021.
-![rolando.jpg](../../images/rolando.jpg)
+![rolando.jpg](../../images/Rolando.jpg)
 
 ## 2. Aktier i grøn økonomi
 
-Globale omstændigheder kan påvirke kursudviklingen på aktier i berørte sektorer. Vor tids klimaudfordringer, er bl.a. med til at bestemme kursudviklingen på aktier i den 'grønne' økonomi. Også når politiske vinde vender, påvirkes aktier.  
+Globale omstændigheder kan påvirke kursudviklingen på aktier i berørte sektorer. Vor tids klimaudfordringer, er bl.a. med til at bestemme kursudviklingen på aktier i den 'grønne' økonomi. Også når politiske vinde vender, påvirkes aktier.
 
 https://www.tradingview.com/chart/VWSYF/hx8CYkPb-VESTAS-to-benefit-from-Biden-s-victory/
 
@@ -31,14 +31,12 @@ Machine Learning er en form for kunstig intelligens, hvor en maskine lærer sig 
 ![ml.jpg](../../images/ml.jpg)
 
 ### 4.1 Neurale netværk
+
 En teknologi der ofte bruges ifm. genkendelse af mønstre, er neurale netværk.
 
 Man prøver at simulere den menneskelige hjernes neuroner og således få maskinen til at 'huske', hvad der skal ske hvornår.
 
 Når vi forudsiger aktiekursen 1 dag frem i tiden, kan vi derfor gøre det, med en rimelig sikkerhed.
-
-
-
 
 Ved hjælp af Denne Vi har til hensigt at forsøge at tilbagevise hypotesen om, at Vi kan med relativ sikkerhed forudsige udviklingen i en given aktie ved at følge dens historiske udvikling og aktuelle trends online.  
 // Og her kommer et billede fra orakelMads' fede aktiesoftware.
