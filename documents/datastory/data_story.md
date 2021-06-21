@@ -38,10 +38,25 @@ Man prøver at simulere den menneskelige hjernes neuroner og således få maskin
 
 Når vi forudsiger aktiekursen 1 dag frem i tiden, kan vi derfor gøre det, med en rimelig sikkerhed.
 
-Ved hjælp af Denne Vi har til hensigt at forsøge at tilbagevise hypotesen om, at Vi kan med relativ sikkerhed forudsige udviklingen i en given aktie ved at følge dens historiske udvikling og aktuelle trends online.  
-// Og her kommer et billede fra orakelMads' fede aktiesoftware.
+![LSTM_1_day.png](../../images/LSTM_1_day.png)
 
-https://www.fool.com/investing/2020/12/02/why-tesla-stock-soared-463-in-november/
+Det viser sig dog, at når vi forsøger at forudsige længere ud i fremtiden, kommer LSTM til kort.
 
-Kan vi bruge high og low til noget?
-Vi kan måske lave en lineær regression for at påvise påstand nr 1, at aktier over tid stiger...
+![LSTM_Predict_Future.png](../../images/LSTM_Predict_Future.png)
+
+Vi tolker LSTM grafen som værende et resultat af, at maskinen har lært sig tendenser i kursudviklingen i et tidsrum, hvor aktiekursen overordnet faldt.
+
+### 4.2 Lineær regression
+
+Denne teknologi forsøger at ramme ideallinjen gennem punkter, så man kan opstille en ligning, der bedst beskriver punkternes formel.
+
+Med denne teknologi ser vi en bedre nøjagtighed i forudsigelse af aktiekursen.
+
+![lr_prediction.png](../../images/lr_prediction.png)
+
+Den grønne kurve viser de faktiske kurser, mens den blå kurve viser forudsigelsen af kursen, 25 dage frem. Det spændende ved kurven er, at den blå kurve viser samme tendens som den grønne kurve helt frem til og med dag 5.
+
+Andre aktier viser lignende tendenser.
+![lr_pred_gogl.png](../../images/lr_pred_gogl.png)
+![lr_pred_maersk.png](../../images/lr_pred_maersk.png)
+
