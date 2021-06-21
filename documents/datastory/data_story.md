@@ -52,11 +52,10 @@ Denne teknologi forsøger at ramme ideallinjen gennem punkter, så man kan opsti
 
 Med denne teknologi ser vi en bedre nøjagtighed i forudsigelse af aktiekursen.
 
-![lr_prediction.png](../../images/lr_prediction.png)
+![lr_prediction.png](../../images/lr_prediction.PNG)
 
 Den grønne kurve viser de faktiske kurser, mens den blå kurve viser forudsigelsen af kursen, 25 dage frem. Det spændende ved kurven er, at den blå kurve viser samme tendens som den grønne kurve helt frem til og med dag 5.
 
 Andre aktier viser lignende tendenser.
-![lr_pred_gogl.png](../../images/lr_pred_gogl.png)
-![lr_pred_maersk.png](../../images/lr_pred_maersk.png)
-
+![lr_pred_gogl.png](../../images/lr_pred_gogl.PNG)
+![lr_pred_maersk.png](../../images/lr_pred_maersk.PNG)
